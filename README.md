@@ -1,2 +1,2 @@
-# ImageCaptionGenerator
-In today's digital age, the ability to understand and describe images automatically has become increasingly valuable. Image captioning, a subfield of computer vision and natural language processing, aims to bridge the gap between visual content and human-readable text.
+# Image Caption Generator
+In today's digital age, the ability to understand and describe images automatically has become increasingly valuable. Image captioning, a subfield of computer vision and natural language processing, aims to bridge the gap between visual content and human-readable text. This project leverages Python and machine learning techniques to create an image captioning system that takes an image as input and generates a descriptive sentence about its content.
